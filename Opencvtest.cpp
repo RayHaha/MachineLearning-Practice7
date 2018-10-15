@@ -133,6 +133,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	}
 	eout = eout/3000;
 	cout<<eout<<endl;
+	// end
 
 	system("pause");
 	return 0;
